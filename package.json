@@ -3,7 +3,7 @@
 	"version": "3.0.1",
 	"description": "Framework for WebExtensions (Firefox, Chrome, Opera, Edge)",
 	"main": "index.js",
-	"repository": "https://github.com/webextension-toolbox/webextension-toolbox",
+	"repository": "https://github.com/rsoury/webextension-toolbox",
 	"author": "Henrik Wenz <HaNdTriX@gmail.com> (https://github.com/HaNdTriX)",
 	"license": "MIT",
 	"bin": {
